@@ -8,5 +8,6 @@ We need a maximum of 16 prizes
 | Fire TV Sticks           |   2  |
 | Advanced Regression Book |   2  |
 | Deep Learning With R     |   1  |
+| DataScience Go tickets   |   2  |
 |--------------------------|:----:|
-|Total                     |  11  |
+|Total                     |  13  |
