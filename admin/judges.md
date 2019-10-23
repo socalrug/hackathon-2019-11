@@ -2,5 +2,5 @@
 
 | Name | Email | Phone | Status |
 | :--- | :---- | :---- | :----- |
-| Mohamed Abdelhamid | | |
+| Mohamed Abdelhamid | maabdelh@uci.edu | (562)985-2361 |
 
