@@ -241,6 +241,8 @@ Food, drinks and snacks will be provided throughout the event.  We will have veg
 
 ## Sponsors
 
-* [UC Irvine - Paul Merage School of Business](https://merage.uci.edu/) 
-* [RStudio](https://rstudio.com/)
+* [Data Science Go](https://www.datasciencego.com/)
 * [R Consortium](https://www.r-consortium.org/)
+* [RStudio](https://rstudio.com/)
+* [Taylor and Francis](https://taylorandfrancis.com/)
+* [UC Irvine - Paul Merage School of Business](https://merage.uci.edu/) 
