@@ -3,11 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-# OCRUG Hackathon 2019
+# OCRUG Hackathon 2019-11
 
 ## Event Summary
 
-The OCRUG Hackathon 2019, hosted by the [Orange County R Users Group](https://ocrug.org) and the [UCI Paul Merage School of Business](https://merage.uci.edu) is a two day event where we will "hack" a data set for fun, education, and prizes.  The focus of the event is on education and teamwork, with the main goal of taking a data set from its "raw" form all the way through to a final "product" (e.g. visualization, model, insight).  To frame this process, we will have light competitive aspect where teams will present their work at end of the event to a panel of judges, with prizes awarded in several categories (see below).
+The OCRUG Hackathon 2019-11, hosted by the [Orange County R Users Group](https://ocrug.org) and the [UCI Paul Merage School of Business](https://merage.uci.edu) is a two day event where we will "hack" a data set for fun, education, and prizes.  The focus of the event is on education and teamwork, with the main goal of taking a data set from its "raw" form all the way through to a final "product" (e.g. visualization, model, insight).  To frame this process, we will have a light competitive aspect where teams will present their work at end of the event to a panel of judges, with prizes awarded in several categories (see below).
 
 The event will start with a series of practical educational tutorials to get you started with fundamental data analysis with the R programming language, followed by working sessions where teams will explore and analyze the data set in preparation for the team presentations. Participants will work in small teams (2 - 5 people).  Teams can either be pre-arranged by participants themselves, or will be assigned at the start of the event.  
 
@@ -47,8 +47,8 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 **Registration**
 
-* Cost: $30
-* Register through [EventBright]()
+* Cost: $35
+* Register through [EventBright](https://www.eventbrite.com/e/ocrug-data-science-hackathon-tickets-74381718723)
 
 ## Schedule
 
@@ -56,21 +56,21 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 | Time | Event |
 | :--: | :--   |
-| 08:30 AM            | Registration starts                             |
-| 08:30 AM - 09:00    | Breakfast                                       |
-| 09:00 AM – 09:45 AM | Tutorial - TBD                                  |
-| 09:45 AM - 10:30 AM | Tutorial - TBD                                  |
-| 10:30 AM - 10:45 AM | Break                                           |
-| 10:45 AM - 11:30 AM | Tutorial - TBD                                  |
-| 11:30 AM - 12:30 PM | Tutorial - TBD                                  |
-| 12:45 PM – 01:15 PM | Lunch                                           |
-| 01:00 PM            | Registration closes                             |
-| 01:15 PM – 01:45 PM | Welcome talk, data set overview, groups formed  |
-| 01:45 PM – 05:45 PM | Working Session                                 |
-| 05:45 PM – 06:30 PM | Dinner                                          |
-| 06:30 PM – 07:30 PM | Discussion Session                              |
-| 07:00 PM - 10:00 PM | Working Session                                 |
-| 10:00 PM            | Building automatically locks                    |
+| 08:30 AM            | Registration starts |
+| 08:30 AM - 09:00    | Breakfast |
+| 09:00 AM – 09:45 AM | Tutorial - Data manipulation with tidy tools - Arlo |
+| 09:45 AM - 10:30 AM | Tutorial - Data visualization with ggplot2 - Emil |
+| 10:30 AM - 10:45 AM | Break |
+| 10:45 AM - 11:30 AM | Tutorial - Data modelling with caret - Ryan |
+| 11:30 AM - 12:30 PM | Tutorial - Using packages for Literate Statistical Programming - John |
+| 12:45 PM – 01:15 PM | Lunch |
+| 01:00 PM            | Registration closes |
+| 01:15 PM – 01:45 PM | Welcome talk, data set overview, groups formed |
+| 01:45 PM – 05:45 PM | Working Session |
+| 05:45 PM – 06:30 PM | Dinner |
+| 06:30 PM – 07:30 PM | Discussion Session |
+| 07:00 PM - 10:00 PM | Working Session |
+| 10:00 PM            | Building automatically locks |
 
 ### Sunday
 
@@ -89,7 +89,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 ## Rules
 
-* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-data-science-hackathon-registration-58927749485) and have a valid ticket to attend.
+* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-data-science-hackathon-tickets-74381718723) and have a valid ticket to attend.
 * All participants must abide by the [OCRUG Code of Conduct](https://github.com/ocrug/hackathon-2019-11/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 * Participants are free to come and go during the event. However, any participant who has not checked-in, in person, by 01:00 PM on Saturday will be considered a "no-show" and their spot may be given to someone else.
 * Though this is an R focused event, participants are free to use any programming language or tool for their work.
@@ -146,44 +146,26 @@ Please follow us on twitter, [oc_rug](https://tinyurl.com/ocrug-twitter), and al
 
 ## Award Categories and Prizes
 
-See the [presentation guidelines](https://github.com/ocrug/hackathon-2019-11/blob/master/presentation_guidelines.md) for the requirements. The team
-prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/ocrug/hackathon-2019-11/blob/master/admin/judging_guidelines.md). 
-The judge's decision is final.
+See the [presentation guidelines](https://github.com/ocrug/hackathon-2019-11/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/ocrug/hackathon-2019-11/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
 
-Below is a list of the awards and prizes that may be given out.
+Below is a list of the awards and [prizes](https://github.com/ocrug/hackathon-2019-11/blob/master/admin/prizes.md). Winner's will be able to select from the available assortment of prizes.
 
 * Most Helpful Person
-    * Personal prize
-    * TBD
+    * Personal award
 * Best Model
-    * Team prize
-    * TBD
+    * Team award
 * Best Insight
-    * Team prize
-    * TBD
+    * Team award
 * Best Visualization
-    * Team prize
-    * TBD
-* Everyone
-    * TBD
-    * Stickers
-    * TBD
-* Early-bird registration
-    * TBD
+    * Team award
 
 ## Most Helpful Person Award
 
-The award for Most Helpful Person Award will be decided by using [cumulative voting](https://en.wikipedia.org/wiki/Cumulative_voting) system. In this system, each participant is given
-10 votes that they can reward other participants for being helpful.  You can assign multiple points to multiple people. Voting for oneself or one's team members is prohibited. The idea
-is to award points to individuals on other teams. The person with the most overall votes wins. When voting opens, you will receive an email with a link to a website. Use the link to cast
-your votes. You will need to vote before voting closes at 2:00 PM on Sunday.
+The award for Most Helpful Person Award will be decided by using [cumulative voting](https://en.wikipedia.org/wiki/Cumulative_voting) system. In this system, each participant is given 10 votes that they can reward other participants for being helpful.  You can assign multiple points to multiple people. Voting for oneself or one's team members is prohibited. The idea is to award points to individuals on other teams. The person with the most overall votes wins. We will be using an app that you can download from the apple or google app store in order to do the voting. You will need to vote before voting closes at 2:00 PM on Sunday.
 
 ## Saturday Discussion Session
 
-There will be a discussion session Saturday between 6:00 PM and 7:00 PM. The goal is to allow sharing of ideas, knowledge and inspiration between groups. At the top of the hour each team 
-will be presented with a "bingo card" with the names of all the teams on in. The objective is to visit with as many teams as possible to allow cross pollination of ideas and knowledge.
-Team-members will visit another teams to hear about what they are doing and share thoughts. Not all team-members need to visit all teams but you should try to visit as many as possible.
-Having multiple team-members visit the same team is a good idea.
+There will be a discussion session Saturday between 6:00 PM and 7:00 PM. The goal is to allow sharing of ideas, knowledge and inspiration between groups. At the top of the hour each team will be presented with a "bingo card" with the names of all the teams on in. The objective is to visit with as many teams as possible to allow cross pollination of ideas and knowledge.  Team-members will visit other teams to hear about what they are doing and share thoughts. Not all team-members need to visit all teams but you should try to visit as many as possible.  Having multiple team-members visit the same team is a good idea.
 
 To make this session run as smooth as possible please
 
@@ -194,6 +176,9 @@ To make this session run as smooth as possible please
 * Remember that the hackathon is primarily an education event and sharing of ideas is highly encouraged.
 
 ## Resources
+
+* [OCRUG Hackathon Cheat Sheets](https://github.com/ocrug/hackathon-2019-11/blob/master/cheatsheet/cheatsheet.pdf)
+    * A booklet of cheat sheets that you can print out and bind. It is a handy reference guide
 
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
     * 1-page note sheets covering data science fundamentals and useful R packages.
@@ -241,19 +226,23 @@ To make this session run as smooth as possible please
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-    * *Breakfast*: coffee, light breakfast
-    * *Lunch*: TBD
-    * *Dinner*: TBD
+    * *Breakfast*: coffee, tea, croissant, muffins, and banana
+    * *Lunch*: Hamburgers, veggie burgers, hot dogs, green salad, fresh fruit, dessert and drinks
+    * *Dinner*: Lasagna (veggie and meat), green salad, fresh fruit, rolls, dessert and drinks
 * **Sunday**
-    * *Breakfast*: coffee, light breakfast
-    * *Lunch*: TBD
+    * *Breakfast*: coffee, tea, bagels with cream cheese and cookies
+    * *Lunch*: mini sandwiches, fresh fruit, dessert and drinks
 * **Snacks and Drinks**
     * Coffee
+    * Various teas
     * Soft drinks
     * Water
     * Various snacks, TBD (e.g. fruit, chips, nuts, granola bars)
 
 ## Sponsors
 
+* [Data Science Go](https://www.datasciencego.com/)
+* [R Consortium](https://www.r-consortium.org/)
+* [RStudio](https://rstudio.com/)
+* [Taylor and Francis](https://taylorandfrancis.com/)
 * [UC Irvine - Paul Merage School of Business](https://merage.uci.edu/) 
-
