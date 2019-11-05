@@ -27,7 +27,7 @@ git clone git@github.com:ocrug/hackathon-2019-11.git
 1. Registration will be between 8:30 and 9:00 on Saturday, November 9th. The tutorials will start at 9:00. These are optional.
 1. At 1:00 PM the data will be released and there will be a presentation that will provide an overview.
 1. Any person that is not registered by 1:00 PM on Saturday will be considered a 'no-show' and their spot may be given to someone else. 
-1. If you are not able to attend, please let us know ASAP. We have over 50 people on the waiting list.
+1. If you are not able to attend, please let us know ASAP. If their are people on the waiting list, we would like to give them notice so they can attend.
 
 Looking forward to seeing everyone there
 
