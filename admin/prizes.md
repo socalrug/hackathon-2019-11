@@ -3,12 +3,12 @@ We need a maximum of 16 prizes
 | **Description** |**Qty**|
 |-----------------|:----:|
 | 360 degree camera | 1 |
-| AWS Credits ($250) | 2 |
+| AWS Credits ($250) | 0 (2) |
 | Book: Advanced Regression | 3 |
-| Book: Big Data | 2 |
+| Book: Big Data | 0 (2) |
 | Book: Bookdown and Advanced R| 1 |
 | Book: Deep Learning With R | 1 |
-| Book: Extending R | 2 |
+| Book: Extending R | 0 (1) |
 | Book: Machine Learning | 1 |
 | Book: Pattern Recognition and Machine Learning | 1 |
 | Book: R Primer | 1 |
@@ -21,5 +21,4 @@ We need a maximum of 16 prizes
 
 Note:
 * Some of the books may not arrive in time
-* Two Wireless Earbuds were ordered but only 1 arrived
 * AWS credits have not been confirmed
