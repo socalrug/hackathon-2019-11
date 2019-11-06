@@ -3,7 +3,7 @@ We need a maximum of 16 prizes
 | **Description** |**Qty**|
 |-----------------|:----:|
 | 360 degree camera | 1 |
-| AWS Credits ($250) | 0 (2) |
+| AWS Credits ($125) | 2 |
 | Book: Advanced Regression | 3 |
 | Book: Big Data | 0 (2) |
 | Book: Bookdown | 1 |
