@@ -14,7 +14,7 @@ Below is a schedule of specific times and tasks for the helpers
 
 | Date       | Time                | Person              | Primary Tasks |
 | :--        | :--                 | :--                 | :-- |
-| 2019-11-09 | 08:00 AM - 08:30 AM |                     | Post signs on how to get to the sign-in in the building, help set up sign-in table  |
+| 2019-11-09 | 08:00 AM - 08:30 AM | Liz Li(zixinl12@uci.edu)| Post signs on how to get to the sign-in in the building, help set up sign-in table  |
 |            |                     |                     | Set up the sign-in table, make name tags and lanyards |
 |            | 08:00 AM - 09:00 AM |                     | Unload supplies and bring into SB1, set-up coffee, snack station and breakfast station |
 |            | 09:00 AM - 12:30 PM |                     | Refill snacks and coffee as needed. Clean up snack area.  Make sure there is enough coffee for the break and lunch |
