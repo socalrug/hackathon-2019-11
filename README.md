@@ -226,11 +226,11 @@ To make this session run as smooth as possible please
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-    * *Breakfast*: coffee, tea, croissant, and fruit
+    * *Breakfast*: coffee, tea, croissant, bagels, and fruit
     * *Lunch*: Hamburgers, veggie burgers, hot dogs, green salad, fresh fruit, dessert and drinks
     * *Dinner*: Lasagna (veggie and meat), green salad, fresh fruit, rolls, dessert and drinks
 * **Sunday**
-    * *Breakfast*: coffee, tea, muffins, and fruit
+    * *Breakfast*: coffee, tea, croissant, muffins, and fruit
     * *Lunch*: mini sandwiches, fresh fruit, dessert and drinks
 * **Snacks and Drinks**
     * Coffee
