@@ -60,7 +60,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | 08:30 AM - 09:00    | Breakfast |
 | 09:00 AM – 09:45 AM | Tutorial - Data manipulation with tidy tools - Arlo |
 | 09:45 AM - 10:30 AM | Tutorial - Data visualization with ggplot2 - Emil |
-| 10:30 AM - 10:45 AM | Break |
+| 10:30 AM - 10:45 AM | Break , Chai Tea Stall @SB1 1st Floor|
 | 10:45 AM - 11:30 AM | Tutorial - Data modelling with caret - Ryan |
 | 11:30 AM - 12:30 PM | Tutorial - Using packages for Literate Statistical Programming - John |
 | 12:45 PM – 01:15 PM | Lunch |
