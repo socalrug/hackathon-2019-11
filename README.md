@@ -57,17 +57,18 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | Time | Event |
 | :--  | :--   |
 | 08:30 AM            | Registration starts |
-| 08:30 AM - 09:00    | Breakfast |
-| 09:00 AM – 09:45 AM | Tutorial - Data manipulation with tidy tools - Arlo |
-| 09:45 AM - 10:30 AM | Tutorial - Data visualization with ggplot2 - Emil |
-| 10:30 AM - 10:45 AM | Break |
-| 10:45 AM - 11:30 AM | Tutorial - Data modelling with caret - Ryan |
-| 11:30 AM - 12:00 PM | Tutorial - Literate Statistical Programming - John |
-| 12:00 PM - 12:30 PM | Tutorial - How to Promote Yourself in Today's Data Science Job Market - Zhi |
-| 12:45 PM – 01:15 PM | Lunch |
-| 01:15 PM            | Registration closes |
-| 01:15 PM – 01:45 PM | Welcome talk, data set overview, groups formed |
-| 01:45 PM – 05:45 PM | Working Session |
+| 08:30 AM - 09:00 AM | Breakfast |
+| 09:00 AM - 09:15 AM | Introduction and wifi setup |
+| 09:15 AM – 10:00 AM | Tutorial - Data manipulation with tidy tools - Arlo |
+| 10:00 AM - 10:45 AM | Tutorial - Data visualization with ggplot2 - Emil |
+| 10:45 AM - 11:00 AM | Break |
+| 11:00 AM - 11:45 AM | Tutorial - Data modelling with caret - Ryan |
+| 11:45 AM - 12:15 PM | Tutorial - Literate Statistical Programming - John |
+| 12:15 PM - 12:45 PM | Tutorial - How to Promote Yourself in Today's Data Science Job Market - Zhi |
+| 01:00 PM – 01:30 PM | Lunch |
+| 01:30 PM            | Registration closes |
+| 01:30 PM – 02:00 PM | Welcome talk, data set overview, groups formed |
+| 02:00 PM – 05:45 PM | Working Session |
 | 05:45 PM – 06:30 PM | Dinner |
 | 06:30 PM – 07:30 PM | Discussion Session |
 | 07:00 PM - 10:00 PM | Working Session |
