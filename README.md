@@ -165,6 +165,12 @@ Below is a list of the awards and [prizes](https://github.com/ocrug/hackathon-20
 
 The award for Most Helpful Person Award will be decided by using [cumulative voting](https://en.wikipedia.org/wiki/Cumulative_voting) system. In this system, each participant is given 10 votes that they can reward other participants for being helpful.  You can assign multiple points to multiple people. Voting for oneself or one's team members is prohibited. The idea is to award points to individuals on other teams. The person with the most overall votes wins. We will be using an app that you can download from the apple or google app store in order to do the voting. You will need to vote before voting closes at 2:00 PM on Sunday.
 
+We will be using an online voting system. You will receive an email inviting you to create an account so that you can register you votes. The process is the following.
+1. You will receive an email inviting you to create an account. It will be from Vox Populi with the subject heading "VoxPopuli - confirm your email"
+1. Click an the link in your email and create an account. Make sure that you use the same email address when creating the account as the invite email
+1. Once you have your account created, you will be asked to accept an invite to a survey. Accept it.
+1. You will now be able to vote once the survey is open. We will announce when it is open
+
 ## Saturday Discussion Session
 
 There will be a discussion session Saturday between 6:00 PM and 7:00 PM. The goal is to allow sharing of ideas, knowledge and inspiration between groups. At the top of the hour each team will be presented with a "bingo card" with the names of all the teams on in. The objective is to visit with as many teams as possible to allow cross pollination of ideas and knowledge.  Team-members will visit other teams to hear about what they are doing and share thoughts. Not all team-members need to visit all teams but you should try to visit as many as possible.  Having multiple team-members visit the same team is a good idea.
