@@ -55,16 +55,17 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 ### Saturday
 
 | Time | Event |
-| :--: | :--   |
+| :--  | :--   |
 | 08:30 AM            | Registration starts |
 | 08:30 AM - 09:00    | Breakfast |
 | 09:00 AM – 09:45 AM | Tutorial - Data manipulation with tidy tools - Arlo |
 | 09:45 AM - 10:30 AM | Tutorial - Data visualization with ggplot2 - Emil |
-| 10:30 AM - 10:45 AM | Break , Chai Tea Stall @SB1 1st Floor|
+| 10:30 AM - 10:45 AM | Break |
 | 10:45 AM - 11:30 AM | Tutorial - Data modelling with caret - Ryan |
-| 11:30 AM - 12:30 PM | Tutorial - Using packages for Literate Statistical Programming - John |
+| 11:30 AM - 12:00 PM | Tutorial - Literate Statistical Programming - John |
+| 12:00 PM - 12:30 PM | Tutorial - Using Social Media to Creat your Brand - Zhi |
 | 12:45 PM – 01:15 PM | Lunch |
-| 01:00 PM            | Registration closes |
+| 01:15 PM            | Registration closes |
 | 01:15 PM – 01:45 PM | Welcome talk, data set overview, groups formed |
 | 01:45 PM – 05:45 PM | Working Session |
 | 05:45 PM – 06:30 PM | Dinner |
@@ -75,7 +76,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 ### Sunday
 
 | Time | Event |
-| :--: | :--   |
+| :--- | :--   |
 | 08:30 AM - 09:00 AM | Breakfast | 
 | 09:00 AM – 12:00 PM | Working session |
 | 12:00 PM            | Most Helpful Person Award voting opens |
