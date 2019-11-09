@@ -63,7 +63,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | 10:30 AM - 10:45 AM | Break |
 | 10:45 AM - 11:30 AM | Tutorial - Data modelling with caret - Ryan |
 | 11:30 AM - 12:00 PM | Tutorial - Literate Statistical Programming - John |
-| 12:00 PM - 12:30 PM | Tutorial - Using Social Media to Creat your Brand - Zhi |
+| 12:00 PM - 12:30 PM | Tutorial - How to Promote Yourself in Today's Data Science Job Market - Zhi |
 | 12:45 PM – 01:15 PM | Lunch |
 | 01:15 PM            | Registration closes |
 | 01:15 PM – 01:45 PM | Welcome talk, data set overview, groups formed |
