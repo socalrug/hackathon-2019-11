@@ -79,8 +79,8 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | Time | Event |
 | :--- | :--   |
 | 08:30 AM - 09:00 AM | Breakfast | 
+| 09:00 AM            | Most Helpful Person Award voting opens |
 | 09:00 AM – 12:00 PM | Working session |
-| 12:00 PM            | Most Helpful Person Award voting opens |
 | 12:00 PM – 12:45 PM | Lunch  |
 | 12:45 PM – 01:30 PM | Groups prepare presentations |
 | 01:30 PM            | Voting for Most Helpful Person Award closes |
