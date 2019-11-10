@@ -11,3 +11,4 @@
 * There were no volunteers for the saturday clean-up.
 * Have post event survey ready in advance
 * Have a better way for teams to submit their names, github info and membership
+* There was not a lot of mixing because the doors were closed and locked. Have an open door policy.
