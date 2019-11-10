@@ -22,6 +22,11 @@ All teams will need to make a presentation covering their work during the hackat
 * Each team will present from a team member’s laptop to the main projector screen in the presentation room.
 * Teams that use interactive visualizations should embed a screenshot of the visualization in their PDF presentation, and show the actual visualization during the presentation.
 
+## Submit your work to the repo
+* Each team will submit GitHub handle that will be authorized to commit directly to the repo
+* There is a folder, 'presentations' that will have a folder for each team.
+* Please commit you code and slides to the repo before the start of the presentations
+
 ## Tips for presentations:
 
 * We will have 1.5 hour set aside specifically for preparing presentations after lunch on Sunday, from 1:30 — 3:00 PM.
