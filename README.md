@@ -173,7 +173,7 @@ We will be using an online voting system. You will receive an email inviting you
 
 ## Saturday Discussion Session
 
-There will be a discussion session Saturday between 6:00 PM and 7:00 PM. The goal is to allow sharing of ideas, knowledge and inspiration between groups. At the top of the hour each team will be presented with a "bingo card" with the names of all the teams on in. The objective is to visit with as many teams as possible to allow cross pollination of ideas and knowledge.  Team-members will visit other teams to hear about what they are doing and share thoughts. Not all team-members need to visit all teams but you should try to visit as many as possible.  Having multiple team-members visit the same team is a good idea.
+There will be a discussion session Saturday just after supper. The goal is to allow sharing of ideas, knowledge and inspiration between groups. At the top of the hour each team will be presented with a "bingo card" with the names of all the teams on in. The objective is to visit with as many teams as possible to allow cross pollination of ideas and knowledge.  Team-members will visit other teams to hear about what they are doing and share thoughts. Not all team-members need to visit all teams but you should try to visit as many as possible.  Having multiple team-members visit the same team is a good idea.
 
 To make this session run as smooth as possible please
 
