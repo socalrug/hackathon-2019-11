@@ -9,4 +9,4 @@
 * Two big jugs for getting water for the coffee pots
 * Volunteers need clearer instructions on what they need to do at on each shift
 * There were no volunteers for the saturday clean-up.
-
+* Have post event survey ready in advance
