@@ -6,3 +6,7 @@
 * Get dongles to convert between different video connections
 * Make sure the food / snacks are in the same location
 * Presentations/annoucements to the entire group (e.g. intro talk, tutorials, group presentations) should use a microphone.
+* Two big jugs for getting water for the coffee pots
+* Volunteers need clearer instructions on what they need to do at on each shift
+* There were no volunteers for the saturday clean-up.
+
