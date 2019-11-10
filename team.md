@@ -12,3 +12,4 @@
 | The Outliers | nhefner12 | 2015 | Kash Santos, Sadaf Mehdizadeh, Nick Hefner |
 | Vogue Digital Modelling | jsiwu94 | 2017 | Matthew, Jennifer, Sonal, Subendra, Tikiri, Priya |
 | Turtle | ailing123 | 3107 | Steven, Vivian, Ai-Ling, Howard, Issac |
+| Aliens in Tidyverse! | | | Anuja Dixit, Adwait Toro, Mohan Ganesan, Ashish Gupta | 
