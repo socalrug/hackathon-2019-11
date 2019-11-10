@@ -81,10 +81,10 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | 08:30 AM - 09:00 AM | Breakfast | 
 | 09:00 AM – 12:00 PM | Working session |
 | 12:00 PM            | Most Helpful Person Award voting opens |
-| 12:00 PM – 01:00 PM | Lunch  |
-| 01:00 PM – 02:00 PM | Groups prepare presentations |
-| 02:00 PM            | Voting for Most Helpful Person Award closes |
-| 02:00 PM – 03:00 PM | Group presentations |
+| 12:00 PM – 12:45 PM | Lunch  |
+| 12:45 PM – 01:30 PM | Groups prepare presentations |
+| 01:30 PM            | Voting for Most Helpful Person Award closes |
+| 01:30 PM – 03:00 PM | Group presentations |
 | 03:00 PM – 03:30 PM | Judges discuss and select winners |
 | 03:30 PM – 04:00 PM | Award presentation & wrap-up |
 
@@ -163,7 +163,7 @@ Below is a list of the awards and [prizes](https://github.com/ocrug/hackathon-20
 
 ## Most Helpful Person Award
 
-The award for Most Helpful Person Award will be decided by using [cumulative voting](https://en.wikipedia.org/wiki/Cumulative_voting) system. In this system, each participant is given 10 votes that they can reward other participants for being helpful.  You can assign multiple points to multiple people. Voting for oneself or one's team members is prohibited. The idea is to award points to individuals on other teams. The person with the most overall votes wins. We will be using an app that you can download from the apple or google app store in order to do the voting. You will need to vote before voting closes at 2:00 PM on Sunday.
+The award for Most Helpful Person Award will be decided by using [cumulative voting](https://en.wikipedia.org/wiki/Cumulative_voting) system. In this system, each participant is given 10 votes that they can reward other participants for being helpful.  You can assign multiple points to multiple people. Voting for oneself or one's team members is prohibited. The idea is to award points to individuals on other teams. The person with the most overall votes wins. We will be using an app that you can download from the apple or google app store in order to do the voting. You will need to vote before voting closes at 1:30 PM on Sunday.
 
 We will be using an online voting system. You will receive an email inviting you to create an account so that you can register you votes. The process is the following.
 1. You will receive an email inviting you to create an account. It will be from Vox Populi with the subject heading "VoxPopuli - confirm your email"
