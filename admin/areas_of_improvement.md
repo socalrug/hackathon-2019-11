@@ -12,3 +12,7 @@
 * Have post event survey ready in advance
 * Have a better way for teams to submit their names, github info and membership
 * There was not a lot of mixing because the doors were closed and locked. Have an open door policy.
+* A video dongle to go from HDMI to DP, USB-C, maybe VGA
+* Sign-up for team names, team members, github account was painful to get
+* People were not accepting the github collaborator invite
+* VoxPubli was complex to setup. Maybe just an invite with a link to vote.
