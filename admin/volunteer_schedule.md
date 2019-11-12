@@ -28,7 +28,7 @@ Date       | Time                | Person              | Primary Tasks |
 | 2019-11-10 | 08:00 AM - 09:00 AM | Amy Lee, Jennifer S   | Make coffee, set up snacks and breakfast |
 |            | 09:00 AM - 12:30 PM |  Sarah L, Takako S    | Refill snacks and coffee as needed. Clean up snack area. Make sure there is enough coffee for lunch. Help setup lunch |
 |            | 12:00 PM - 03:00 PM | CATERER             | Setup and clean up lunch. Garbage pickup is at 1:00 PM. Refill coffee and snacks |
-|            | 03:00 PM - 05:00 PM | Hsu Ming Lee | Writet up what the prize as and what the winnders did, help take offthe signs for classrooms |
+|            | 03:00 PM - 05:00 PM | Hsu Ming Lee | Write up what the prize are and what the winners did. Help take offthe signs for classrooms |
 |            | 03:00 PM - 05:00 PM | Sonal M, Ryan Luu, Hsu Ming Lee   | Clean up break rooms, empty and clean up coffee and snack area, make sure all garbage is collected |
 |            | 03:00 PM - 05:00 PM | Amy Lee, Takako S, Sarah L| Clean up SB1 2301, make sure all garbage is collected, help carry supplies back to cars |
 

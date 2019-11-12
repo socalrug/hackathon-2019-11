@@ -14,4 +14,4 @@
 | The Outliers | nhefner12 | 2015 | Kash Santos, Sadaf Mehdizadeh, Nick Hefner |
 | Turtle | ailing123 | 3107 | Steven Li, Viviani Kang, Ai-Ling Ting, Howard Zhu, Issac Wan|
 | Viz Bank | swang41 | 2100 | Tyler Mcwatters, Sikai Wang, Varun Sharma N, Joe Long, Hong Xiao |
-| Vogue Digital Modelling | jsiwu94 | 2017 | Matthewi Littman, Jennifer Siwu, Sonal Mendiratta, Subendra Maharjan, Tikiri Karunasundera, Priya Chauhan |
+| Vogue Digital Modelling | jsiwu94 | 2017 | Matthew Littman, Jennifer Siwu, Sonal Mendiratta, Subendra Maharjan, Tikiri Karunasundera, Priya Chauhan |
